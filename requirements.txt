@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+opencv-python
+easyocr
+mss
+joblib
+tk
+matplotlib
+pillow
+pytesseract
