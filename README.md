@@ -23,6 +23,7 @@ The purpose is to demonstrate OCR, real-time data capture, and ML prediction pip
 - **Data Logging**: Saves predictions, outcomes, and retraining history to CSV  
 
 ---
+![Crash Game Predictor Screenshot](Screenshot 2025-09-21 005641.png)
 
 ## 📦 Requirements
 - Python 3.10+  
